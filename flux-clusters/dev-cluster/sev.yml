@@ -3,8 +3,6 @@ kind: Service
 metadata:
   name: python-app
   namespace: naveen
-  labels:
-    app: python
 spec:
   type: NodePort
   ports:

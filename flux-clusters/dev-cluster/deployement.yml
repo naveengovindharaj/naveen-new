@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: python
-        image: naveen012/mypython:v1
+        image: naveen012/mypython:v2
         ports:
         - containerPort: 8080

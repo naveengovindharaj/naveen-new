@@ -4,7 +4,7 @@ metadata:
   name: python-app
   namespace: naveen
   labels:
-    name: python
+    app: python
 spec:
   type: NodePort
   ports:
